@@ -1,3 +1,6 @@
+#ignrar todas extensões 
 *.db
+#Ignorar todos arquivos SQL
 *.sql
+#Ignorar todos Arquivos rar
 *.rar
